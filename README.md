@@ -1,6 +1,6 @@
 # exifjs-rails
 
-The Exif.js JavaScript library ready to play with Rails.
+The [Exif.js](https://github.com/exif-js/exif-js) JavaScript library ready to play with Rails.
 
 ## Installation
 
