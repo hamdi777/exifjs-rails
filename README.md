@@ -1,6 +1,6 @@
-# Exifjs::Rails
+# exifjs-rails
 
-TODO: Write a gem description
+The Exif.js JavaScript library ready to play with Rails.
 
 ## Installation
 
@@ -20,11 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```javascript
+// app/assets/javascripts/application.js
+//= require jquery
+//= require jquery_ujs
+//= require exif
+//= require_tree .
+```
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/exifjs-rails/fork )
+1. Fork it ( https://github.com/ykzts/exifjs-rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
